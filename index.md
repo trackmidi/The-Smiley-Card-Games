@@ -2,5 +2,3 @@
 
 ## Our card games:
 <a href="/emojattax">Emojattax</a>
-
-<a href="/topoftheclass">Top of the Class</a>
