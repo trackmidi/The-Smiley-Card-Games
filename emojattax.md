@@ -1,6 +1,6 @@
 # Emojattax
-<img src="labelled card.png" alt="labelled emojattax card" width="550" height="310">
-<img src="emojattax information.png" alt="emojattax information" width="550" height="310">
+<img src="labelled card.png" alt="Labelled Emojattax card" width="550" height="310">
+<img src="instructions.png" alt="How to Play" width="550" height="310">
 
 click
 <a href="/The-Smiley-Cards/order-emojattax">here</a>
