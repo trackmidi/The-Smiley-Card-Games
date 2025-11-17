@@ -3,5 +3,5 @@
 <img src="instructions.png" alt="How to Play" width="550" height="310">
 
 click
-<a href="/The-Smiley-Cards/order-emojattax">here</a>
+<a href="/The-Smiley-Cards/emojattax/order-emojattax">here</a>
 to order emojattax cards
