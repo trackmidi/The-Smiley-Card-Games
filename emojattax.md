@@ -7,5 +7,5 @@ click
 to order emojattax cards
 
 click
-<a href="/emojattax-chances.htm>here</a>
+<a href="/emojattax-chances.htm">here</a>
 to see the current chances of getting each card
