@@ -34,10 +34,10 @@ xmlns=3D"http://www.w3.org/TR/REC-html40">
  var c_lTabs=3D4;
 
  var c_rgszSh=3Dnew Array(c_lTabs);
- c_rgszSh[0] =3D "Card rarity";
- c_rgszSh[1] =3D "New chances";
+ c_rgszSh[0] =3D "CardÂ rarity";
+ c_rgszSh[1] =3D "NewÂ chances";
  c_rgszSh[2] =3D "Sales";
- c_rgszSh[3] =3D "Price &amp; Order Scheme";
+ c_rgszSh[3] =3D "PriceÂ &amp;Â OrderÂ Scheme";
 
 
 
@@ -443,7 +443,7 @@ td
 	mso-number-format:Percent;}
 .xl66
 	{mso-style-parent:style0;
-	mso-number-format:"\0022£\0022\#\,\#\#0\.00";}
+	mso-number-format:"\0022Â£\0022\#\,\#\#0\.00";}
 .xl67
 	{mso-style-parent:style0;
 	text-align:center;}
@@ -1498,7 +1498,7 @@ Smiling
  <tr height=3D19 style=3D'height:14.5pt'>
   <td height=3D19 class=3Dxl75 style=3D'height:14.5pt;border-top:none'>U-13=
 <span
-  style=3D'mso-spacerun:yes'>  </span>Neutral Face</td>
+  style=3D'mso-spacerun:yes'>Â  </span>Neutral Face</td>
   <td class=3Dxl76 align=3Dright style=3D'border-top:none;border-left:none'=
 >0</td>
   <td class=3Dxl76 align=3Dright style=3D'border-top:none;border-left:none'=
@@ -3266,13 +3266,13 @@ h:96pt'>
  </tr>
  <tr height=3D19 style=3D'height:14.5pt'>
   <td height=3D19 style=3D'height:14.5pt'>Price</td>
-  <td class=3Dxl66 align=3Dright>£1.80</td>
-  <td class=3Dxl66 align=3Dright>£4.00</td>
-  <td class=3Dxl66 align=3Dright>£6.00</td>
-  <td class=3Dxl66 align=3Dright>£15.00</td>
-  <td class=3Dxl66 align=3Dright>£50.00</td>
-  <td class=3Dxl66 align=3Dright>£1.00</td>
-  <td class=3Dxl66 align=3Dright>£77.80</td>
+  <td class=3Dxl66 align=3Dright>Â£1.80</td>
+  <td class=3Dxl66 align=3Dright>Â£4.00</td>
+  <td class=3Dxl66 align=3Dright>Â£6.00</td>
+  <td class=3Dxl66 align=3Dright>Â£15.00</td>
+  <td class=3Dxl66 align=3Dright>Â£50.00</td>
+  <td class=3Dxl66 align=3Dright>Â£1.00</td>
+  <td class=3Dxl66 align=3Dright>Â£77.80</td>
  </tr>
  <tr height=3D19 style=3D'height:14.5pt'>
   <td height=3D19 style=3D'height:14.5pt'>Num cards</td>
@@ -3286,13 +3286,13 @@ h:96pt'>
  </tr>
  <tr height=3D19 style=3D'height:14.5pt'>
   <td height=3D19 style=3D'height:14.5pt'>Profit</td>
-  <td class=3Dxl66 align=3Dright>£1.54</td>
-  <td class=3Dxl66 align=3Dright>£3.36</td>
-  <td class=3Dxl66 align=3Dright>£5.03</td>
-  <td class=3Dxl66 align=3Dright>£12.43</td>
-  <td class=3Dxl66 align=3Dright>£43.56</td>
-  <td class=3Dxl66 align=3Dright>£0.94</td>
-  <td class=3Dxl66 align=3Dright>£66.86</td>
+  <td class=3Dxl66 align=3Dright>Â£1.54</td>
+  <td class=3Dxl66 align=3Dright>Â£3.36</td>
+  <td class=3Dxl66 align=3Dright>Â£5.03</td>
+  <td class=3Dxl66 align=3Dright>Â£12.43</td>
+  <td class=3Dxl66 align=3Dright>Â£43.56</td>
+  <td class=3Dxl66 align=3Dright>Â£0.94</td>
+  <td class=3Dxl66 align=3Dright>Â£66.86</td>
  </tr>
  <tr height=3D19 style=3D'height:14.5pt'>
   <td height=3D19 style=3D'height:14.5pt'>Num packs</td>
@@ -3306,13 +3306,13 @@ h:96pt'>
  </tr>
  <tr height=3D19 style=3D'height:14.5pt'>
   <td height=3D19 style=3D'height:14.5pt'>Overall price</td>
-  <td class=3Dxl66 align=3Dright>£0.00</td>
-  <td class=3Dxl66 align=3Dright>£0.00</td>
-  <td class=3Dxl66 align=3Dright>£0.00</td>
-  <td class=3Dxl66 align=3Dright>£0.00</td>
-  <td class=3Dxl66 align=3Dright>£0.00</td>
-  <td class=3Dxl66 align=3Dright>£0.00</td>
-  <td class=3Dxl66 align=3Dright>£0.00</td>
+  <td class=3Dxl66 align=3Dright>Â£0.00</td>
+  <td class=3Dxl66 align=3Dright>Â£0.00</td>
+  <td class=3Dxl66 align=3Dright>Â£0.00</td>
+  <td class=3Dxl66 align=3Dright>Â£0.00</td>
+  <td class=3Dxl66 align=3Dright>Â£0.00</td>
+  <td class=3Dxl66 align=3Dright>Â£0.00</td>
+  <td class=3Dxl66 align=3Dright>Â£0.00</td>
  </tr>
  <tr height=3D19 style=3D'height:14.5pt'>
   <td height=3D19 colspan=3D6 style=3D'height:14.5pt;mso-ignore:colspan'></=
@@ -3332,10 +3332,10 @@ td>
  </tr>
  <tr height=3D19 style=3D'height:14.5pt'>
   <td height=3D19 style=3D'height:14.5pt'>Price</td>
-  <td class=3Dxl66 align=3Dright>£34.00</td>
-  <td class=3Dxl66 align=3Dright>£23.93</td>
-  <td class=3Dxl66 align=3Dright>£1.00</td>
-  <td class=3Dxl66 align=3Dright>£1.00</td>
+  <td class=3Dxl66 align=3Dright>Â£34.00</td>
+  <td class=3Dxl66 align=3Dright>Â£23.93</td>
+  <td class=3Dxl66 align=3Dright>Â£1.00</td>
+  <td class=3Dxl66 align=3Dright>Â£1.00</td>
   <td class=3Dxl65 align=3Dright>2.50%</td>
   <td class=3Dxl66></td>
   <td></td>
@@ -3352,11 +3352,11 @@ td>
  <tr height=3D19 style=3D'height:14.5pt'>
   <td height=3D19 style=3D'height:14.5pt'>Price/Card</td>
   <td class=3Dxl70>N/A</td>
-  <td class=3Dxl66 align=3Dright>£0.02</td>
-  <td class=3Dxl66 align=3Dright>£0.01</td>
-  <td class=3Dxl66 align=3Dright>£0.00</td>
-  <td class=3Dxl66 align=3Dright>£0.03</td>
-  <td class=3Dxl66 align=3Dright>£0.06</td>
+  <td class=3Dxl66 align=3Dright>Â£0.02</td>
+  <td class=3Dxl66 align=3Dright>Â£0.01</td>
+  <td class=3Dxl66 align=3Dright>Â£0.00</td>
+  <td class=3Dxl66 align=3Dright>Â£0.03</td>
+  <td class=3Dxl66 align=3Dright>Â£0.06</td>
   <td></td>
  </tr>
  <![if supportMisalignedColumns]>
