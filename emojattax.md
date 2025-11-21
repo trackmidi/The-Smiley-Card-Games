@@ -5,3 +5,7 @@
 click
 <a href="https://tscg.sumupstore.com">here</a>
 to order emojattax cards
+
+click
+<a href="/emojattax-chances.htm>here</a>
+to see the current chances of getting each card
